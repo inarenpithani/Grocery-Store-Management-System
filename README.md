@@ -23,7 +23,7 @@
     
 ## Output :
 ### Home Page 
-![Screenshot](https://github.com/ipithani/Grocery--Store-Management-System/blob/main/Home%20page.png)
+![Screenshot](https://github.com/inarenpithani/Grocery-Store-Management-System/blob/main/Home%20page.png)
 
 ### For Adding new products :
 ![Screenshot](https://github.com/ipithani/Grocery--Store-Management-System/blob/main/New%20product.png)
